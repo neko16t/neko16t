@@ -1,4 +1,6 @@
-### Hi there 👋
+### olá 👋
+eu sou estudante do ensino médio
+estou fazendo o curo por sugestão do governo
 
 <!--
 **neko16t/neko16t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
